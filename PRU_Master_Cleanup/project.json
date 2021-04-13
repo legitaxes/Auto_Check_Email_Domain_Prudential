@@ -5,6 +5,7 @@
   "dependencies": {
     "AdvanceExcel": "[1.0.9]",
     "UiPath.Excel.Activities": "[2.10.2-preview]",
+    "UiPath.Form.Activities": "[1.2.1-preview]",
     "UiPath.Mail.Activities": "[1.10.2-preview]",
     "UiPath.MicrosoftOffice365.Activities": "[1.6.0]",
     "UiPath.System.Activities": "[21.2.1-preview]",
