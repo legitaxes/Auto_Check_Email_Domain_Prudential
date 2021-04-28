@@ -1,0 +1,11 @@
+known bugs with the program
+
+	1. After you have clicked on the font color and changed to a different font color and back to the original, it still does not work for some reason.
+		This could be due to the naming of the font color upon starting up the program and after choosing a different color
+		
+		Solution: Re-open excel file and it will reset the font color button name back to the default start up
+	
+	2. The program will not be able to stop midway during the process. It will only stop after it has completely finish the entire task. So it is best to leave the computer by itself while the program runs.
+		Also do not touch the mouse and keyboard while it is running.
+	
+	3. Process will crash if the selected country only have one email address (one record)
