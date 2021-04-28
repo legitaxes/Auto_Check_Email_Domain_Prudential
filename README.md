@@ -79,6 +79,7 @@ UIPath is very specific on the names of the buttons it clicks on and this is one
 ## More Cons
 - The process will not be able to stop once it has started. There is no ‘fail-safe’ button to stop the process. The only solution is to try your best to reach for the stop button once it is running. 
   - _Tab into UIPath window and press `f2`_
+  
  ![image](https://user-images.githubusercontent.com/73578449/116347332-95c2f800-a81e-11eb-9609-faec71737c62.png)
 
 
