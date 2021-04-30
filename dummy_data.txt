@@ -1,18 +1,54 @@
-Cambodia	.
-Cameroon	.
-Ghana	.
-Hong Kong	.
-Indonesia	.
+Cambodia	.@prudential.com.kh
+Cambodia	.@prusales.com.kh
+Cameroon	.@prubeneficial.cm
+Ghana	.@prudential.com.gh
+Hong Kong	.@prudential.com.hk
+Hong Kong	.@pruhk.com
+Indonesia	.@gmail.com
+Indonesia	.@yahoo.com
+Indonesia	.@yahoo.co.id
+Indonesia	.@ymail.com
+Indonesia	.@hotmail.com
+Indonesia	.@indo.net.id
+Indonesia	.@prudential.co.id
+Indonesia	.@prufutureteam.net
+Indonesia	.@outlook.com
+Ivory Coast	.@prubelife.com
 Ivory Coast	.
+Kenya	.@prudentiallife.co.ke
 Kenya	.
-Malaysia	.
+Malaysia	.@prudential.com.my
+Malaysia	.@prupartner.com.my
+Malaysia	.prubsnadvisor.com.my
+Myanmar	.@pruadvisor.com.mm
+Myanmar	.@prudential.com.mm
 Myanmar	.
+Nigeria	.prudentialzenith.com
 Nigeria	.
-Philippines	.
-Singapore	.
+Philippines	.@prulifeuk.com.ph
+Philippines	.@gmail.com
+Philippines	.@yahoo.com
+Philippines	.@yahoo.com.ph
+Singapore	.@pruadviser.com.sg
+Singapore	.@prudential.com.sg
+Thailand	.@gmail.com
+Thailand	.@hotmail.co.th
+Thailand	.@yahoo.com
+Thailand	.@outlook.com
+Thailand	.@outlook.co.th
+Thailand	.@thaipruagency.com
+Thailand	.@prudential.co.th
 Thailand	.
-Togo	.
+Togo	.@prubeneficial.tg
 Togo	,
+Uganda	.@prudential.ug
 Uganda	.
+Vietnam	.@gmail.com
+Vietnam	.@gmail.com.vn
+Vietnam	.yahoo.com
+Vietnam	.yahoo.com.vn
+Vietnam	.prudential.com.vn
+Vietnam	.pru-ga.com.vn
 Vietnam	.
+Zambia	.prudential.co.zm
 Zambia	.
