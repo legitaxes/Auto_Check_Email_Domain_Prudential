@@ -10622,7 +10622,7 @@
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <av:Point x:Key="ShapeLocation">770,54</av:Point>
                           <av:Size x:Key="ShapeSize">200,52.6666666666667</av:Size>
-                          <av:PointCollection x:Key="ConnectorLocation">870,54 870,5.37333333333333 1101.66666666667,5.37333333333333 1101.66666666667,26.6666666666667</av:PointCollection>
+                          <av:PointCollection x:Key="ConnectorLocation">870,54 870,24 1281.66666666667,24 1281.66666666667,26.6666666666667</av:PointCollection>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                       <ui:MultipleAssign DisplayName="Convert to Boolean" sap:VirtualizedContainerService.HintSize="200,52.6666666666667" sap2010:WorkflowViewState.IdRef="MultipleAssign_2">
@@ -10788,10 +10788,10 @@
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                              <av:Point x:Key="ShapeLocation">1030.66666666667,26.6666666666667</av:Point>
+                              <av:Point x:Key="ShapeLocation">1210.66666666667,26.6666666666667</av:Point>
                               <av:Size x:Key="ShapeSize">142,86.6666666666667</av:Size>
-                              <av:PointCollection x:Key="TrueConnector">1030.66666666667,70 1010,70 1010,133.666666666667 1100,133.666666666667 1100,163.666666666667</av:PointCollection>
-                              <av:PointCollection x:Key="FalseConnector">1172.66666666667,70 1200,70 1200,126.666666666667 870,126.666666666667 870,156.666666666667</av:PointCollection>
+                              <av:PointCollection x:Key="TrueConnector">1210.66666666667,70 1100,70 1100,163.666666666667</av:PointCollection>
+                              <av:PointCollection x:Key="FalseConnector">1352.66666666667,70 1380,70 1380,126.666666666667 870,126.666666666667 870,156.666666666667</av:PointCollection>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
                           <FlowDecision.True>
